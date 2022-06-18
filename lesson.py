@@ -1,8 +1,4 @@
-# -- ex 1 ---
+import numpy
 
-# x = 10
-# print(x)
-
-# -- ex 2 --
-# for i in range(10):
-#     print(i)
+x = numpy.array([1, 2, 3])
+print(x)
